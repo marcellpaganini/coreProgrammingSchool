@@ -1,0 +1,18 @@
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020 - Copy\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020 - Copy\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020 - Copy\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020 - Copy\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020 - Copy\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020 - Copy\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020 - Copy\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020 - Copy\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\pagan\Documents\NBCC\Senior Year\Fall Term\Server Side Web Dev ASP.Net\coreIntroDemo2020 - Copy\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
